@@ -1,4 +1,7 @@
-## As of the current state, Docker is not operational!!!
+## IMPORTANT NOTICE
+1. As of the current state, Docker is not operational!!!
+2. The 'object_detection' and 'yolo_tiny_configs' folders have been provided by the teaching team of Monash University.
+
 
 # object_detection
 
