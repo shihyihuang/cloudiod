@@ -1,6 +1,4 @@
-## Docker Unavailability Notice
-
-**Important:** As of the current state, Docker is not operational.
+## As of the current state, Docker is not operational!!!
 
 # object_detection
 
